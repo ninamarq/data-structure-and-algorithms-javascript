@@ -8,4 +8,11 @@ This project will be a study repository of data structure and algorithms with ja
   <img src="https://images-na.ssl-images-amazon.com/images/I/61AjyNPeDUL.jpg" width="200px" />
 </div>
 
-### Hope that you guys enjoy it, it was made with love and really made with all of my efforts! 💙
+<div>
+  <h1>Summary</h1>
+  <ul>
+    <li>Chapter 1: Javascript - general vision</li>
+  </ul>
+</div>
+
+#### Hope that you guys enjoy it, it was made with love and really made with all of my efforts! 💙
