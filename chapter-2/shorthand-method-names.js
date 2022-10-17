@@ -3,4 +3,4 @@ const hello = {
   sayHello() { console.log("Hello") }
 }
 
-console.log(hello.sayHello())
+hello.sayHello()
