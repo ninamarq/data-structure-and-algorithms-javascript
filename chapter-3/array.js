@@ -10,3 +10,4 @@ monthlyTemperature.push(janTemp, fevTemp, marTemp, aprilTemp)
 console.log(monthlyTemperature)
 
 console.log(monthlyTemperature.length)
+console.table(monthlyTemperature)
