@@ -13,6 +13,7 @@ This project will be a study repository of data structure and algorithms with ja
   <ul>
     <li>Chapter 1: Javascript - general vision</li>
     <li>Chapter 2: General vision of ECMScript and Typescript</li>
+    <li>Chapter 3: Arrays</li>
   </ul>
 </div>
 
