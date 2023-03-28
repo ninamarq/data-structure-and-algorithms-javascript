@@ -14,4 +14,4 @@ function compare(a,b) {
 }
 
 numbers.reverse().sort(compare)
-console.log(numbers)
+// console.log(numbers)
