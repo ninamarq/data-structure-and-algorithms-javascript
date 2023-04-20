@@ -2,6 +2,7 @@
   "name": "data-structure-and-algorithms-javascript",
   "version": "0.0.1",
   "description": "Learning JavaScript Data Structures and Algorithms",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/loiane/javascript-datastructures-algorithms.git"
