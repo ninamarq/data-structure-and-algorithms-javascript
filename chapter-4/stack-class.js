@@ -1,4 +1,4 @@
-class Stack {
+export class Stack {
   constructor() {
     this._count = 0
     this._items = {}
@@ -62,4 +62,4 @@ stack.pop()
 // console.log(stack.toString())
 
 // getting public methods
-console.log({names: Object.getOwnPropertyNames(stack)})
+// console.log({names: Object.getOwnPropertyNames(stack)})
