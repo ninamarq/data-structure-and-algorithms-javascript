@@ -16,6 +16,7 @@ This project will be a study repository of data structure and algorithms with ja
     <li>Chapter 3: Arrays</li>
     <li>Chapter 4: Stacks</li>
     <li>Chapter 5: Queues</li>
+    <li>Chapter 6: Linked Lists</li>
   </ul>
 </div>
 
